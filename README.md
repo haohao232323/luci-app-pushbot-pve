@@ -1,4 +1,5 @@
 # 改名公告
+打算研究把luci-app-pushbot移植到PVE虚拟机上，奈何技术不够，随先丢这。
 #### 2021年04月25日 起luci-app-serverchand 改名为 luci-app-pushbot
 
 如需拉取编译
